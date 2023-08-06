@@ -1,0 +1,14 @@
+
+.main-banner{
+    background-image:url('/mala.jpg');
+    background-size:cover;
+    
+}
+.banner-wrapper{
+    background-color:rgba(0,0,0,.5);
+    height:100%;
+}
+.portfolio{
+    position:relative;
+    margin-top:-10%;
+}
